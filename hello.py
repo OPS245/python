@@ -6,13 +6,13 @@
 #
 
 # Import the os module
-import os
+
 
 # Print hello
-print('Hello')
+
 
 # List the contents of the bin directory
-os.system("ls /")
+
 
 # Print good bye
-print('Good Bye')
+
